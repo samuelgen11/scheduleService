@@ -1,0 +1,7 @@
+server:
+  port: 9093
+
+# ---------------------------- SPRING ----------------------------
+spring:
+  application:
+    name: schedule-service

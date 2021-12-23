@@ -1,0 +1,12 @@
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\Application.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\entity\CronEntity.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\runnables\RunnableTask.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\controller\ScheduleController.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\entity\URLEntity.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\configuration\SchedulerConfig.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\configuration\SwaggerConfig.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\configuration\RestTemplateConfig.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\repository\CronRepository.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\service\DataExtractorFeignInterface.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\repository\URLRepository.java
+C:\Users\genta\eclipse-workspace\Schedule\src\main\java\it\perigea\formazione\scheduler\service\RestScheduler.java
